@@ -12,8 +12,8 @@ I wanted to combine all the knowledge ive learned so far in the bootcamp and at 
 
 ## webpage behaviour
 * When opening the web app you will be presented with a search bar and back ground images relating to default location denver.
-* When a city name has been entered the image while randomly change to an image of the country the city is in
-* when a city name is typed in the search bar the city entered into the search bar should come up
+* When a city name has been entered the image while randomly change to an image of the country the city is in.
+* when a city name is typed in the search bar the city entered into the search bar should come up.
 * when the city has been bought up it will show the current temperature,forecast,and wind speed.
 
 ## mock up 
