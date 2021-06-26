@@ -7,7 +7,7 @@ The finished application is a weather app showing degrees wind speed and forecas
 3. webpage behaviour.
 4. mock up.
 ## Task description
-I wanted to combine all the knowledge ive learned so far i the bootcamp and at university to make a functioning weather app.
+I wanted to combine all the knowledge ive learned so far in the bootcamp and at university to make a functioning weather app.
 
 
 ## webpage behaviour
