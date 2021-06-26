@@ -17,4 +17,4 @@ I wanted to combine all the knowledge ive learned so far i the bootcamp and at u
 * when the city has been bought up it will show the current temperature,forecast,and wind speed.
 
 ## mock up 
-https://github.com/Walker123-coder/Weather-app/blob/main/assests/weather%20app.png
+https://github.com/Walker123-coder/Weather-app/blob/main/assests/weather%20app.png?raw=true
