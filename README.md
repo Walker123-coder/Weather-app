@@ -1,5 +1,5 @@
 ## General information
-The finished application is a weather app showing degrees wind speed and forecast.
+The finished application is a weather app showing city, degrees, wind speed, and forecast.
 
 ## Table of contents
 1. General information.
